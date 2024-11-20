@@ -1,0 +1,2 @@
+Name: ram, Marks: 23
+Name: pari, Marks: 34
